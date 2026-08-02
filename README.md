@@ -117,11 +117,11 @@ During the installation, I encountered the following issues:
 
 ### ROS Distribution
 
-![ROS Distribution](images/ros_distro.png)
+![ROS Distribution](ros_distro.png)
 
 ### Demo Node
 
-![Talker Output](images/talker_output.png)
+![Talker Output](talker_output.png)
 
 ---
 
